@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 import random
-nomba = random.randint(-30, 30)
-if nomba > 0:
-    print(f"{nomba} is positive")
+nomber = random.randint(-30, 30)
+if nomber > 0:
+    print(f"{nomber} is positive")
 elif number == 0:
-    print(f"{nomba} is zero")
+    print(f"{nomber} is zero")
 else:
-    print(f"{nomba} is negative")
+    print(f"{nomber} is negative")
